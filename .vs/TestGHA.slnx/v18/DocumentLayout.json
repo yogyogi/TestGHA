@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5194F4F-D668-3222-4C96-97C36473949E}|TestGHA\\TestGHA.csproj|c:\\users\\avita\\documents\\github\\testgha\\testgha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5194F4F-D668-3222-4C96-97C36473949E}|TestGHA\\TestGHA.csproj|solutionrelative:testgha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4801193E-FE5A-4C50-8877-51C66C1BCF36}|Testing\\Testing.csproj|c:\\users\\avita\\documents\\github\\testgha\\testing\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4801193E-FE5A-4C50-8877-51C66C1BCF36}|Testing\\Testing.csproj|solutionrelative:testing\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5194F4F-D668-3222-4C96-97C36473949E}|TestGHA\\TestGHA.csproj|c:\\users\\avita\\documents\\github\\testgha\\testgha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5194F4F-D668-3222-4C96-97C36473949E}|TestGHA\\TestGHA.csproj|solutionrelative:testgha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +79,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\Testing\\TestController.cs",
+              "RelativeDocumentMoniker": "Testing\\TestController.cs",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\Testing\\TestController.cs",
+              "RelativeToolTip": "Testing\\TestController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:18:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\TestGHA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestGHA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\TestGHA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestGHA\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:18:52.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\TestGHA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestGHA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\TestGHA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TestGHA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T14:50:00.803Z",
+              "EditorCaption": ""
             }
           ]
         }

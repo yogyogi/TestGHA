@@ -90,8 +90,7 @@
               "RelativeToolTip": "Testing\\TestController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T05:18:23.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T05:18:23.715Z"
             },
             {
               "$type": "Document",
@@ -101,7 +100,7 @@
               "RelativeDocumentMoniker": "TestGHA\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\TestGHA\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TestGHA\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBgAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T15:18:52.489Z",
               "EditorCaption": ""
@@ -116,8 +115,7 @@
               "RelativeToolTip": "TestGHA\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAD4AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T14:50:00.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T14:50:00.803Z"
             }
           ]
         }

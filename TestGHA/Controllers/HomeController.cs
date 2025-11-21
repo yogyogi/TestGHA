@@ -15,14 +15,14 @@ namespace TestGHA.Controllers
         public IActionResult Index(string presidentInput, string playerInput, string personInput, string tennisInput)
         {
             // Comment to fail the test
-            if (string.IsNullOrEmpty(presidentInput))
+            /*if (string.IsNullOrEmpty(presidentInput))
                 ModelState.AddModelError("name", "Please enter your answer");
             if (string.IsNullOrEmpty(playerInput))
                 ModelState.AddModelError("name", "Please enter your answer");
             if (string.IsNullOrEmpty(personInput))
                 ModelState.AddModelError("name", "Please enter your answer");
             if (string.IsNullOrEmpty(tennisInput))
-                ModelState.AddModelError("name", "Please enter your answer");
+                ModelState.AddModelError("name", "Please enter your answer");*/
 
             if (ModelState.IsValid)
             {

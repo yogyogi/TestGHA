@@ -37,7 +37,7 @@ namespace TestGHA.Controllers
                 if (tennisInput == tennis)
                     correct++;
 
-                string result = $"<p>You got {correct} answers correct</p><p>Here are the correct answers:</p><p>{president} is the president of United States</p><p>{player} has most international goals in football</p><p>{player} is the richest person in the world</p><p>{player} has won most Grand Slam titles in tennis</p>";
+                string result = $"<p>You got {correct} answers correct</p><p>Here are the correct answers:</p><p>{president} is the president of United States</p><p>{player} has most international goals in football</p><p>{person} is the richest person in the world</p><p>{tennis} has won most Grand Slam titles in tennis</p>";
                 return View((object)result);
             }
             else

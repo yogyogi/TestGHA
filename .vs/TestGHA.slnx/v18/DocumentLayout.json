@@ -94,8 +94,7 @@
               "RelativeToolTip": ".github\\workflows\\dotnet.yml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-01-15T16:47:53.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:47:53.168Z"
             },
             {
               "$type": "Document",
@@ -105,7 +104,7 @@
               "RelativeDocumentMoniker": "Testing\\TestController.cs",
               "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\Testing\\TestController.cs",
               "RelativeToolTip": "Testing\\TestController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T05:18:23.715Z",
               "EditorCaption": ""
@@ -120,8 +119,7 @@
               "RelativeToolTip": "TestGHA\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T15:18:52.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T15:18:52.489Z"
             },
             {
               "$type": "Document",

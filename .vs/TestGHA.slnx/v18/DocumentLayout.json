@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": ".github\\workflows\\dotnet.yml",
               "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\.github\\workflows\\dotnet.yml",
               "RelativeToolTip": ".github\\workflows\\dotnet.yml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-01-15T16:47:53.168Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "Testing\\TestController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T05:18:23.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T05:18:23.715Z"
             },
             {
               "$type": "Document",

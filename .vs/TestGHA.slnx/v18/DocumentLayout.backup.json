@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4801193E-FE5A-4C50-8877-51C66C1BCF36}|Testing\\Testing.csproj|c:\\users\\avita\\documents\\github\\testgha\\testing\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4801193E-FE5A-4C50-8877-51C66C1BCF36}|Testing\\Testing.csproj|solutionrelative:testing\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\.github\\workflows\\dotnet.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\dotnet.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4801193E-FE5A-4C50-8877-51C66C1BCF36}|Testing\\Testing.csproj|c:\\users\\avita\\documents\\github\\testgha\\testing\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4801193E-FE5A-4C50-8877-51C66C1BCF36}|Testing\\Testing.csproj|solutionrelative:testing\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5194F4F-D668-3222-4C96-97C36473949E}|TestGHA\\TestGHA.csproj|c:\\users\\avita\\documents\\github\\testgha\\testgha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "dotnet.yml",
               "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\.github\\workflows\\dotnet.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\dotnet.yml",
               "ToolTip": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\.github\\workflows\\dotnet.yml",
               "RelativeToolTip": ".github\\workflows\\dotnet.yml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-01-15T16:47:53.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\Avita\\Documents\\GitHub\\TestGHA\\Testing\\TestController.cs",
               "RelativeDocumentMoniker": "Testing\\TestController.cs",
@@ -120,8 +120,7 @@
               "RelativeToolTip": "TestGHA\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAADwvycAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T15:18:52.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T15:18:52.489Z"
             },
             {
               "$type": "Document",
@@ -133,8 +132,7 @@
               "RelativeToolTip": "TestGHA\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAADsAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-20T14:50:00.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T14:50:00.803Z"
             }
           ]
         }
